@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyam Singh</h1>
 <h3 align="center">3rd-year Computer Science Engineering Student | Tech Enthusiastic and keen Learner 🙂.</h3>
-![3D Cartoon Using Laptops](https://img.freepik.com/premium-ai-image/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_61207209.htm)
-
+![3D Cartoon Using Laptops](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam165&label=Profile%20views&color=0e75b6&style=flat" alt="shyam165" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning, AWS Cloud, WordPress**
