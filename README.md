@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyam Singh</h1>
 <h3 align="center">3rd-year Computer Science Engineering Student | Tech Enthusiastic and keen Learner 🙂.</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="3D Cartoon Using Laptops">
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="3D Cartoon Using Laptops">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam165&label=Profile%20views&color=0e75b6&style=flat" alt="shyam165" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning, AWS Cloud, WordPress**
