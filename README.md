@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam165&label=Profile%20views&color=0e75b6&style=flat" alt="shyam165" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shyam165" alt="shyam165" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning, AWS Cloud, WordPress**
 
 - 🔭 I’m currently working on [Event Management System using Python (Django)](https://github.com/Shyam165/Online-Event-Management-System.git)
