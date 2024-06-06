@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=Shyam165&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👋 Hi, I’m Shyam Singh<br>🌱 I’m currently learning Deep Learning, AWS Cloud, WordPress<br>🔭 I’m currently working on an Event Management System Project using Django, given to me as an internship project by Infosys Springboard.<br>👯 I’m looking to collaborate on PHP<br>👨‍💻 Check out my coding profile on HackerRank<br>📫 How to reach me shyamsingh78790@gmail.com<br>⚡ Fun fact I am funny 😅
+👋 Hi, I’m Shyam Singh<br>🌱 I’m currently learning Deep Learning, AWS Cloud, WordPress<br>🔭 Working on an [Event Management System Project](https://github.com/Shyam165/Online-Event-Management-System.git) using Django, as an internship project by Infosys Springboard.<br>👯 I’m looking to collaborate on PHP<br>👨‍💻 Check out my coding profile on HackerRank<br>📫 How to reach me shyamsingh78790@gmail.com<br>⚡ Fun fact I am funny 😅
 
 
 ## 🌐 Socials:
