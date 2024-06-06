@@ -2,7 +2,7 @@
 <h3 align="center">3rd-year Computer Science Engineering Student | Tech Enthusiastic and keen Learner 🙂.</h3>
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="3D Cartoon Using Laptops">
 
-[![](https://visitcount.itsvg.in/api?id=Shyam165&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Shyam165&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 # 💫 About Me:
 👋 Hi, I’m Shyam Singh<br>🌱 I’m currently learning Deep Learning, AWS Cloud, WordPress<br>🔭 Working on an [Event Management System Project](https://github.com/Shyam165/Online-Event-Management-System.git) using Django, as an internship project by Infosys Springboard.<br>👯 I’m looking to collaborate on PHP<br>👨‍💻 Check out my coding profile on HackerRank<br>📫 How to reach me shyamsingh78790@gmail.com<br>⚡ Fun fact I am funny 😅
