@@ -10,9 +10,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyam-singh-69b18523b) 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shyam165) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shyam__9509) 
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shyam165)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-058A42?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shyamsinzd8i) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shyam__9509)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25238331)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shyam11122003) 
 
